@@ -1,0 +1,11 @@
+{
+  "name": "my-wrapped-ether",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Naoki Yaguchi <murooka.1129.x50@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "zeppelin-solidity": "^1.10.0"
+  }
+}
